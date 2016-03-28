@@ -8,11 +8,11 @@
   report = log --pretty=oneline --author='vincent\\|Vincent' --abbrev-commit --since='14.hours' --no-merges --reverse
 
 [user]
-  name = Vincent Zhang
-  email = v.zh@msn.com
+  name = Xiaoming Jin
+  email = jin.xiaoming@ekohe.com
 
 [github]
-  user = vincentzhezhang
+  user = Jinxiaoming
 
 [gui]
   editor = gedit
